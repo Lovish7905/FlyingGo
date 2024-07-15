@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.con{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 7px;
+}
+#tim{
+    background: url("timingdivbg.jpg") no-repeat center;
+
+}
+#dest{
+    background: url("destinbg.jpg") no-repeat center;
+}
+#dest h3{
+    color: aliceblue;
+    margin-top: 15px;
+}
